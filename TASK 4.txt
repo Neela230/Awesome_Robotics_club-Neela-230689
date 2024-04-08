@@ -1,0 +1,4 @@
+ROBOTICS: AUTONOMOUS NAVIGATION OF MARS ROVER
+
+I basically like the idea of navigating the space to explore new things and species. I am just curious to learn the working of the robots in this field. Rovers also detect their obstacles autonomously, so I want to know how this happens.
+
